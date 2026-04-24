@@ -11,7 +11,7 @@ Tenta la tua fortuna direttamente sul mio profilo!
 Metti alla prova la tua fortuna! 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/simrim96/GithubSlotMachine/main/slot.svg?v=1" width="400" alt="Slot Machine">
+  <img src="https://github-slot-machine.vercel.app/api/image" width="400">
 
   <br><br>
 
