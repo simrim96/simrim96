@@ -12,7 +12,7 @@ Metti alla prova la tua fortuna!
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/simrim96/GithubSlotMachine/main/SlotTemplate.svg" width="400" alt="Slot Machine">
+  <img src="https://raw.githubusercontent.com/simrim96/GithubSlotMachine/main/slot.svg" width="400" alt="Slot Machine">
 
   <br><br>
 
