@@ -12,11 +12,11 @@ Metti alla prova la tua fortuna!
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/TUO_USER/github-slot-machine/main/slot.svg" width="400" alt="Slot Machine">
+  <img src="https://raw.githubusercontent.com/simrim96/GithubSlotMachine/main/slot.svg" width="400" alt="Slot Machine">
 
   <br><br>
 
-  <a href="https://IL-TUO-URL-DI-VERCEL.vercel.app/api/spin">
+  <a href="https://https://github-slot-machine.vercel.app/api/spin">
     <img src="https://img.shields.io/badge/---TIRA%20LA%20LEVA---?style=for-the-badge&color=gold&labelColor=black" alt="Spin">
   </a>
 
