@@ -16,7 +16,7 @@ Metti alla prova la tua fortuna!
 
   <br><br>
 
-  <a href="https://https://github-slot-machine.vercel.app/api/spin">
+  <a href="https://github-slot-machine.vercel.app/api/spin">
     <img src="https://img.shields.io/badge/---TIRA%20LA%20LEVA---?style=for-the-badge&color=gold&labelColor=black" alt="Spin">
   </a>
 
