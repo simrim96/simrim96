@@ -12,7 +12,7 @@ Metti alla prova la tua fortuna!
 
 <div align="center">
   <!-- <img src="https://github-slot-machine.vercel.app/api/image?v=new" width="400"> -->
-  <img src="https://github-slot-machine.vercel.app/api/image?v=1" width="400">
+  <img src="https://github-slot-machine.vercel.app/api/image?cache_buster=123" width="400">
 
   <br><br>
 
