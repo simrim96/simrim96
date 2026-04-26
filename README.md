@@ -21,10 +21,4 @@ Metti alla prova la tua fortuna!
   </a>
 
   <br>
-  
-  <blockquote>
-    <b>NB:</b> Dopo aver cliccato, attendi 15-20 secondi e ricarica la pagina per vedere il risultato! <br>
-    <i>Le GitHub Actions hanno bisogno di tempo per elaborare la tua giocata.</i>
-  </blockquote>
-
 </div>
