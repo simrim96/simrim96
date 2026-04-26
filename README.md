@@ -11,8 +11,8 @@ Tenta la tua fortuna direttamente sul mio profilo!
 Metti alla prova la tua fortuna! 
 
 <div align="center">
-  <!-- <img src="https://github-slot-machine.vercel.app/api/image?v=1777236074495new" width="400"> -->
-  <img src="https://github-slot-machine.vercel.app/api/image?v=1777236074495" width="500">
+  <!-- <img src="https://github-slot-machine.vercel.app/api/image?v=1777236087375new" width="400"> -->
+  <img src="https://github-slot-machine.vercel.app/api/image?v=1777236087375" width="500">
 
   <br><br>
 
