@@ -11,8 +11,8 @@ Tenta la tua fortuna direttamente sul mio profilo!
 Metti alla prova la tua fortuna! 
 
 <div align="center">
-  <!-- <img src="https://github-slot-machine.vercel.app/api/image?v=1777578102986new" width="400"> -->
-  <img src="https://github-slot-machine.vercel.app/api/image?v=1777578102986" width="500">
+  <!-- <img src="https://github-slot-machine.vercel.app/api/image?v=1777578235347new" width="400"> -->
+  <img src="https://github-slot-machine.vercel.app/api/image?v=1777578235347" width="500">
 
   <br><br>
 
@@ -20,10 +20,10 @@ Metti alla prova la tua fortuna!
     <img src="https://img.shields.io/badge/---TIRA%20LA%20LEVA---?style=for-the-badge&color=gold&labelColor=black" alt="Spin">
   </a>
   <!-- SLOT_LAST_WIN_START -->
-> 🎰 **Total community spins:** `2` · **Wins:** `1`
+> 🎰 **Total community spins:** `3` · **Wins:** `2`
 >
-> 🏆 **Last win:** `GLSL`  
-> _In GLSL non esistono puntatori né allocazione dinamica: tutto è pensato per il calcolo SIMD massivamente parallelo._
+> 🏆 **Last win:** `Python`  
+> _Python prende il nome dai Monty Python's Flying Circus, non dal serpente: Guido van Rossum era un grande fan dello show._
 <!-- SLOT_LAST_WIN_END -->
   <br>
 </div>
