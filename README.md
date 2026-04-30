@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- <img src="https://github-slot-machine.vercel.app/api/image?v=1777582439917new" width="400"> -->
-  <img src="https://github-slot-machine.vercel.app/api/image?v=1777582439917">
+  <!-- <img src="https://github-slot-machine.vercel.app/api/image?v=1777582960074new" width="400"> -->
+  <img src="https://github-slot-machine.vercel.app/api/image?v=1777582960074">
 
   <a href="https://github-slot-machine.vercel.app/api/spin">
     <img src="https://img.shields.io/badge/---SPIN---?style=for-the-badge&color=gold&labelColor=black" alt="Spin">
