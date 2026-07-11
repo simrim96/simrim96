@@ -1,11 +1,11 @@
 <div align="center">
   <table><tr>
-  <td><img src="https://github-slot-machine.vercel.app/api/image?v=1783789060435" width="600" alt="slot"/></td>
+  <td><img src="https://github-slot-machine.vercel.app/api/image?v=1783789062166" width="600" alt="slot"/></td>
   <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever" width="140" alt="pull to spin"/></a></td>
   </tr></table>
 
   <!--
-  <img src="https://github-slot-machine.vercel.app/api/image?v=1783789060435">
+  <img src="https://github-slot-machine.vercel.app/api/image?v=1783789062166">
 
   <a href="https://github-slot-machine.vercel.app/api/spin">
     <img src="https://img.shields.io/badge/---SPIN---?style=for-the-badge&color=gold&labelColor=black" alt="Spin">
