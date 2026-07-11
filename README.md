@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/---SPIN---?style=for-the-badge&color=gold&labelColor=black" alt="Spin">
   </a> -->
 
-  ## 🎰 GitHub Slot Machine
+  ## 🎰 GitHub Slot Machine 🎰
+
+  Try your luck!
+  
   Metti alla prova la tua fortuna! 
 </div>
