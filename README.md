@@ -8,9 +8,14 @@
   Metti alla prova la tua fortuna! 
 </div>
 -->
+
+
 <div align="center">
   <table><tr>
       <td><img src="https://github-slot-machine.vercel.app/api/image?v=1784720626437" width="600" alt="slot"/></td>
-      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever" width="140" alt="pull to spin"/></a></td>
-    </tr></table>
+      <!--<td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever" width="140" alt="pull to spin"/></a></td>
+    </tr> -->
+    <td><a href="https://github-slot-machine.vercel.app/lever">
+       <img src="https://github-slot-machine.vercel.app/api/lever" width="140" alt="pull to spin"/></a></td>
+  </table>
 </div>
