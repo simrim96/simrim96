@@ -12,8 +12,8 @@
 
 <div align="center">
   <table><tr>
-      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1784789548308" width="600" alt="slot"/></td>
-      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1784789548308" width="140" alt="pull to spin"/></a></td>
+      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1784789553416" width="600" alt="slot"/></td>
+      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1784789553416" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
 </div>
