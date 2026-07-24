@@ -12,8 +12,8 @@
 
 <div align="center">
   <table><tr>
-      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1784926933373" width="600" alt="slot"/></td>
-      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1784926933373" width="140" alt="pull to spin"/></a></td>
+      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1784927665172" width="600" alt="slot"/></td>
+      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1784927665172" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
 
@@ -24,6 +24,6 @@
   Metti alla prova la tua fortuna! 
   
     <!-- SLOT_LAST_WIN_START -->
-
-    <!-- SLOT_LAST_WIN_END -->
+> 🎰 **Total community spins:** `194` · **Wins:** `193`
+<!-- SLOT_LAST_WIN_END -->
 </div>
