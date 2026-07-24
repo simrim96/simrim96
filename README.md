@@ -24,6 +24,5 @@
   Metti alla prova la tua fortuna! 
   
     <!-- SLOT_LAST_WIN_START -->
-> 🎰 **Total community spins:** `194` · **Wins:** `193`
 <!-- SLOT_LAST_WIN_END -->
 </div>
