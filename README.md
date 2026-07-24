@@ -16,4 +16,14 @@
       <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1784926933373" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
+
+  🎰 GitHub Slot Machine 🎰
+
+  Try your luck!
+  
+  Metti alla prova la tua fortuna! 
+  
+    <!-- SLOT_LAST_WIN_START -->
+
+    <!-- SLOT_LAST_WIN_END -->
 </div>
