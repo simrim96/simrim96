@@ -12,8 +12,8 @@
 
 <div align="center">
   <table><tr>
-      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1784927855068" width="600" alt="slot"/></td>
-      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1784927855068" width="140" alt="pull to spin"/></a></td>
+      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1784927866944" width="600" alt="slot"/></td>
+      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1784927866944" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
 
@@ -26,8 +26,8 @@
     <!-- SLOT_LAST_WIN_START -->
 > 🎰 **Total community spins:** `194` · **Wins:** `194`
 >
-> 🏆 **Last win:** `Python`  
-> _Type \`import this\` in any Python REPL and the Zen of Python appears: 19 aphorisms that capture the language's philosophy._  
-> _Digitando \`import this\` in qualsiasi REPL Python compare lo Zen of Python: 19 aforismi che riassumono la filosofia del linguaggio_  
+> 🏆 **Last win:** `JavaScript`  
+> _JavaScript was designed by Brendan Eich in just 10 days, in May 1995, while he was at Netscape._  
+> _JavaScript è stato progettato da Brendan Eich in soli 10 giorni, nel maggio 1995, mentre lavorava a Netscape_  
 <!-- SLOT_LAST_WIN_END -->
 </div>
