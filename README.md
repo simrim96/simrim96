@@ -17,12 +17,7 @@
     </tr>
   </table>
 
-  🎰 GitHub Slot Machine 🎰
-
-  Try your luck!
-  
-  Metti alla prova la tua fortuna! 
-  
-    <!-- SLOT_LAST_WIN_START -->
+  🎰 Try your luck! 🎰
+</div>  
+<!-- SLOT_LAST_WIN_START -->
 <!-- SLOT_LAST_WIN_END -->
-</div>
