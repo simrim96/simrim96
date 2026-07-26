@@ -13,8 +13,8 @@
 <div align="center">
   <table>
     <tr height=624>
-      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1785077016337" width="600" alt="slot"/></td>
-      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785077016337" width="140" alt="pull to spin"/></a></td>
+      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1785077022285" width="600" alt="slot"/></td>
+      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785077022285" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
   
