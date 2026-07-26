@@ -11,6 +11,8 @@
 
 
 <div align="center">
+
+  🎰 Try your luck! 🎰
   <table>
     <tr>
       <td><a href="#"><img src="https://github-slot-machine.vercel.app/api/image?v=1785092958090" width="600" height="624" alt="slot"/></a></td>
@@ -20,6 +22,4 @@
   <!-- SLOT_LAST_WIN_START -->
 <a href="https://github.com/simrim96/simrim96"><img src="https://github-slot-machine.vercel.app/api/badge?v=1785092958090&amp;lang=JavaScript" alt="check out this repo I wrote in JavaScript" width="340" style="border:0;display:inline-block" /></a>
 <!-- SLOT_LAST_WIN_END -->
-
-  🎰 Try your luck! 🎰
 </div>  
