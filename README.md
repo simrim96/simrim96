@@ -10,7 +10,7 @@
 -->
 
 
-<div align="center">
+<div align="horizontal_center">
   <table>
     <tr height=650>
       <td><img src="https://github-slot-machine.vercel.app/api/image?v=1785077382119" width="600" alt="slot"/></td>
