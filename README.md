@@ -18,7 +18,6 @@
     </tr>
   </table>
   <!-- SLOT_LAST_WIN_START -->
-check my work in Python: https://github.com/simrim96/simrim96
 <!-- SLOT_LAST_WIN_END -->
 
   🎰 Try your luck! 🎰
