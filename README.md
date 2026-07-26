@@ -3,14 +3,14 @@
   🎰 Try your luck! 🎰
   <table>
     <tr>
-      <td><a href="#"><img src="https://github-slot-machine.vercel.app/api/image?v=1785099255523" width="600" height="624" alt="slot"/></a></td>
-      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785099255523" width="140" alt="pull to spin"/></a></td>
+      <td><a href="#"><img src="https://github-slot-machine.vercel.app/api/image?v=1785099269233" width="600" height="624" alt="slot"/></a></td>
+      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785099269233" width="140" alt="pull to spin"/></a></td>
     </tr>
     <tr>
       <tr>
       <td colspan="2" align="center" height="80">
         <!-- SLOT_LAST_WIN_START -->
-<a href="https://github.com/simrim96/simrim96"><img src="https://github-slot-machine.vercel.app/api/badge?v=1785099255523&amp;lang=GLSL" alt="check out this repo I wrote in GLSL" width="340" style="border:0;display:inline-block" /></a>
+<a href="https://github.com/simrim96/simrim96"><img src="https://github-slot-machine.vercel.app/api/badge?v=1785099269233&amp;lang=Qt" alt="check out this repo I wrote in Qt" width="340" style="border:0;display:inline-block" /></a>
 <!-- SLOT_LAST_WIN_END -->
       </td>
     </tr>
