@@ -10,10 +10,10 @@
 -->
 
 
-<div align="horizontal_center">
+<div align="center">
   <table>
-    <tr height=650>
-      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1785077434105" width="600" alt="slot"/></td>
+    <tr>
+      <td><img src="https://github-slot-machine.vercel.app/api/image?v=1785077434105" width="600" height="624" alt="slot"/></td>
       <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785077434105" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
