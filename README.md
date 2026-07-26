@@ -12,7 +12,7 @@
 
 <div align="center">
   <table>
-    <tr width=500 height=500>
+    <tr height=624>
       <td><img src="https://github-slot-machine.vercel.app/api/image?v=1785076836455" width="600" alt="slot"/></td>
       <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785076836455" width="140" alt="pull to spin"/></a></td>
     </tr>
