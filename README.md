@@ -19,7 +19,7 @@
       <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785093317289" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
-    <div height="200">
+    <div height="1000">
     <!-- SLOT_LAST_WIN_START -->
 <!-- SLOT_LAST_WIN_END -->
   </div>
