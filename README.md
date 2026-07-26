@@ -17,9 +17,8 @@
       <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785079139515" width="140" alt="pull to spin"/></a></td>
     </tr>
   </table>
-  
+  <!-- SLOT_LAST_WIN_START -->
+  <!-- SLOT_LAST_WIN_END -->
+
   🎰 Try your luck! 🎰
 </div>  
-<!-- SLOT_LAST_WIN_START -->
-check my work in C++: [simrim96](https://github.com/simrim96/simrim96)
-<!-- SLOT_LAST_WIN_END -->
