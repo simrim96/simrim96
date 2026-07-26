@@ -18,9 +18,10 @@
       <td><a href="#"><img src="https://github-slot-machine.vercel.app/api/image?v=1785098215118" width="600" height="624" alt="slot"/></a></td>
       <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785098215118" width="140" alt="pull to spin"/></a></td>
     </tr>
+    <tr>
+      <td colspan="2" align="center" height="80">
+        <!-- SLOT_LAST_WIN_START -->
+        <!-- SLOT_LAST_WIN_END -->
+      </td>
   </table>
-    <div height="1000">
-    <!-- SLOT_LAST_WIN_START -->
-<!-- SLOT_LAST_WIN_END -->
-  </div>
 </div>  
