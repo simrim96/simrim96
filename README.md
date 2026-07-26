@@ -19,9 +19,14 @@
       <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1785098889889" width="140" alt="pull to spin"/></a></td>
     </tr>
     <tr>
-      <td colspan="2" align="center" height="80">
+  </table>
+  <!-- Tabella 2: Risultato / Vincita (Stesso stile di sfondo) -->
+  <table>
+    <tr>
+      <td align="center" width="740">
         <!-- SLOT_LAST_WIN_START -->
-<!-- SLOT_LAST_WIN_END -->
+        <!-- SLOT_LAST_WIN_END -->
       </td>
+    </tr>
   </table>
 </div>  
