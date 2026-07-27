@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <tr>
-      <td colspan="2" align="center" height="80">
+      <td colspan="2" align="center" height="100">
         <!-- SLOT_LAST_WIN_START -->
 <!-- SLOT_LAST_WIN_END -->
       </td>
