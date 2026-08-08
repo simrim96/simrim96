@@ -3,8 +3,8 @@
   🎰 Try your luck! 🎰
   <table>
     <tr>
-      <td><a href="#"><img src="https://github-slot-machine.vercel.app/api/image?v=1786196187656" width="600" height="624" alt="slot"/></a></td>
-      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1786196187656" width="140" alt="pull to spin"/></a></td>
+      <td><a href="#"><img src="https://github-slot-machine.vercel.app/api/image?v=1786207087574" width="600" height="624" alt="slot"/></a></td>
+      <td><a href="https://github-slot-machine.vercel.app/api/spin"><img src="https://github-slot-machine.vercel.app/api/lever?v=1786207087574" width="140" alt="pull to spin"/></a></td>
     </tr>
     <tr>
       <tr>
